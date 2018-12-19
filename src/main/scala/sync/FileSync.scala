@@ -3,7 +3,7 @@ package sync
 import scala.annotation.tailrec
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 object FileSync {
   @tailrec

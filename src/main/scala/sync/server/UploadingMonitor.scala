@@ -8,7 +8,7 @@ import akka.actor.{Actor, Props}
 import sync.server.UploadingMonitor.UploadingTaskDone
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class UploadingMonitor(baseFolder: Path,
                        uniqTaskId: String,

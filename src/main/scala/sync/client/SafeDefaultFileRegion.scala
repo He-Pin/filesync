@@ -5,7 +5,7 @@ import java.nio.channels.FileChannel
 import io.netty.channel.DefaultFileRegion
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class SafeDefaultFileRegion(file: FileChannel, position: Long, count: Long) extends
   DefaultFileRegion(file, position, count) {

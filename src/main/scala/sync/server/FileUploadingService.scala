@@ -5,7 +5,7 @@ import akka.NotUsed
 import scala.concurrent.Future
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 trait FileUploadingService {
 

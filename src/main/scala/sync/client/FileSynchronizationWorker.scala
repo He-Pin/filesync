@@ -15,7 +15,7 @@ import io.netty.channel.{Channel, ChannelInitializer}
 import scala.concurrent.{ExecutionContextExecutor, Future, Promise}
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class FileSynchronizationWorker(serverAddress: InetSocketAddress,
                                 filePath: Path,

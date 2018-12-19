@@ -7,7 +7,7 @@ import akka.actor.Status.Failure
 import akka.actor.{Actor, Props}
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class UploadingManager(baseFolder: Path) extends Actor {
   override def receive: Receive = {

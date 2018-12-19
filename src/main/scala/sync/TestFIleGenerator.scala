@@ -11,7 +11,7 @@ import scala.concurrent.Await
 import scala.concurrent.duration.Duration
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 object TestFIleGenerator {
   def main0(args: Array[String]): Unit = {

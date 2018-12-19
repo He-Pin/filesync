@@ -10,7 +10,7 @@ import akka.util.Timeout
 import scala.concurrent.Future
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class FileUploadingServiceImpl(actorSystem: ActorSystem,
                                baseFolder: Path) extends FileUploadingService {

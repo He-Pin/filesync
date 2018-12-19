@@ -11,7 +11,7 @@ import io.netty.util.concurrent.{Future, GenericFutureListener}
 import scala.concurrent.Promise
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class ClientFilePumpingChannel(filePath: Path,
                                totalSliceCount: Int,

@@ -13,7 +13,7 @@ import sync.client.FileSynchronizationWorker.SliceDone
 import scala.concurrent.Promise
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class FileSynchronizer(serverAddress: InetSocketAddress,
                        filePath: Path,

@@ -13,7 +13,7 @@ import scala.concurrent.Await
 import scala.concurrent.duration.Duration
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 class ServerFileSaveChannel(service: FileUploadingService) extends ChannelInboundHandlerAdapter {
 

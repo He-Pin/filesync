@@ -5,7 +5,7 @@ import java.nio.file.Paths
 import com.typesafe.config.ConfigFactory
 
 /**
-  * @author 虎鸣 ,hepin.p@alibaba-inc.com
+  * @author hepin1989
   **/
 object Config {
   private val underling = ConfigFactory.load("conf/filesync.conf")
